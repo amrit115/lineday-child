@@ -33,6 +33,11 @@ function mytheme_require_plugins() {
 						'slug' => 'wordpress-seo',
 						'required' => false,
 						),
+					array(
+						'name' => 'Scrollup',
+						'slug' => 'scrollup-master',
+						'required' => false,
+						),
 								
 					
 						
